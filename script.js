@@ -1,3 +1,4 @@
+const {app, BrowserWindow} = require('electron')
 const baseurl = 'https://jsonplaceholder.typicode.com/users/';
 
 
